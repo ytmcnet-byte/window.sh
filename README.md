@@ -22,3 +22,7 @@ Create a full Windows 10 Virtual Machine inside a KVM-supported Ubuntu/Debian VP
 - Windows 10 ISO file
 
 Check virtualization support:
+
+# install command 
+
+ - git clone https://github.com/ytmcnet-byte/window.sh

@@ -25,4 +25,7 @@ Check virtualization support:
 
 # install command 
 
- - : `git clone https://github.com/ytmcnet-byte/window.sh`
+- `git clone https://github.com/ytmcnet-byte/window.sh`
+- `cd windows.sh`
+- `chmod +x window.sh`
+- `./window.sh`
